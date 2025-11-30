@@ -1,5 +1,15 @@
 ## Rishov's Learning Plan for 2026
 
+### Algorithms and Data Structures
+
+- [AlgoMonster](https://algo.monster/)
+- [AlgoExpert]()
+
+### System Design
+
+- [System Design One - Neo Kim](https://newsletter.systemdesign.one/p/system-design-247)
+- [ByteByteGo](https://bytebytego.com/)
+
 ### Programming Languages
 
 1. [Rust](https://rust-lang.org/)

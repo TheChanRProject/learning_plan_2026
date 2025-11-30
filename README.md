@@ -58,6 +58,7 @@
 11. [Langchain - Rust](https://github.com/Abraxas-365/langchain-rust)
 12. [AutoAgents - Rust](https://github.com/liquidos-ai/AutoAgents)
 13. [GraphBit - Rust](https://github.com/InfinitiBit/graphbit)
+14. [semantic vLLM Router - Python](https://blog.vllm.ai/2025/09/11/semantic-router.html)
 
 ### Distributed Computing / Big Data / Model Training / Inference
 
@@ -70,19 +71,20 @@
 5. [Ray - Python](https://github.com/ray-project/ray)
 6. [KubeRay - Python](https://github.com/ray-project/kuberay)
 7. [KubeFlow - Python](https://www.kubeflow.org/)
-8. [Apache Flink - Python](https://quix.io/blog/pyflink-deep-dive)
-9. [Differential Dataflow - Rust](https://timelydataflow.github.io/differential-dataflow/)
-10. [Arroyo - Rust](https://github.com/ArroyoSystems/arroyo)
-11. Open Data Formats
+8. [KubeTorch - Python](https://github.com/run-house/kubetorch)
+9. [Apache Flink - Python](https://quix.io/blog/pyflink-deep-dive)
+10. [Differential Dataflow - Rust](https://timelydataflow.github.io/differential-dataflow/)
+11. [Arroyo - Rust](https://github.com/ArroyoSystems/arroyo)
+12. Open Data Formats
 - [Delta Lake - Python](https://delta-io.github.io/delta-rs/)
 - [Apache Iceberg - Python](https://github.com/apache/iceberg-python)
 - [Apache Hudi - Python](https://hudi.apache.org/docs/python-rust-quick-start-guide/)
-12. Time Series Databases
+13. Time Series Databases
 - [SurrealDB](https://surrealdb.com/)
 - [Clickhouse](https://clickhouse.com/)
 - [Apache Druid](https://druid.apache.org/?utm_source=chatgpt.com)
 
-13. [Graph Databases](https://github.com/jbmusso/awesome-graph)
+14. [Graph Databases](https://github.com/jbmusso/awesome-graph)
 - [JanusGraph](http://janusgraph.org/)
 - [MemGraph](https://memgraph.com/)
 - [DGraph - Golang](https://dgraph.io/)

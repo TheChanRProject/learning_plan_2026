@@ -53,6 +53,8 @@
 ### Distributed Computing / Big Data / Model Training / Inference
 
 1. [Updated Spark - Python](https://spark.apache.org/docs/latest/api/python/index.html)
+- [Smallpond - Python](https://github.com/deepseek-ai/smallpond)
+- [3FS - Python](https://github.com/deepseek-ai/3FS)
 2. [DataFusion - Rust](https://github.com/apache/datafusion)
 3. [Timely Dataflow - Rust](https://github.com/TimelyDataflow/timely-dataflow)
 4. [pyo3 - Rust](https://github.com/PyO3/pyo3)
@@ -62,6 +64,24 @@
 8. [Apache Flink - Python](https://quix.io/blog/pyflink-deep-dive)
 9. [Differential Dataflow - Rust](https://timelydataflow.github.io/differential-dataflow/)
 10. [Arroyo - Rust](https://github.com/ArroyoSystems/arroyo)
+11. Open Data Formats
+- [Delta Lake - Python](https://delta-io.github.io/delta-rs/)
+- [Apache Iceberg - Python](https://github.com/apache/iceberg-python)
+- [Apache Hudi - Python](https://hudi.apache.org/docs/python-rust-quick-start-guide/)
+12. Time Series Databases
+- [SurrealDB](https://surrealdb.com/)
+- [Clickhouse](https://clickhouse.com/)
+- [Apache Druid](https://druid.apache.org/?utm_source=chatgpt.com)
+
+13. [Graph Databases](https://github.com/jbmusso/awesome-graph)
+- [JanusGraph](http://janusgraph.org/)
+- [MemGraph](https://memgraph.com/)
+- [DGraph - Golang](https://dgraph.io/)
+- [BlazeGraph - Java](https://github.com/blazegraph/database)
+- [TypeDB - Python](https://typedb.com/)
+- [TypeDB - Rust](https://typedb.com/docs/home/install/drivers/#_rust)
+- [Apache TinkerPop](https://tinkerpop.apache.org/)
+- [Spark - GraphX](https://spark.apache.org/graphx/)
 
 ### Asynchronous Programming
 
@@ -82,6 +102,7 @@
 3. [perceptron - Rust](https://docs.rs/perceptron/latest/perceptron/)
 4. [ruv-swarm-ml - Rust](https://docs.rs/ruv-swarm-ml/latest/ruv_swarm_ml/)
 - [ruv-FANN](https://github.com/ruvnet/ruv-FANN)
+
 ### Deep Learning Architectures
 
 1. [Diffusion Models](https://towardsdatascience.com/diffusion-models-explained-simply/)
@@ -114,3 +135,65 @@
 21. [Global-Local Spatio-Temporal GNN](https://www.sciencedirect.com/science/article/abs/pii/S0957417425013296?utm_source=chatgpt.com)
 22. [Graph KAN](https://www.nature.com/articles/s42256-025-01087-7?utm_source=chatgpt.com)
 23. [Cox KAN](https://academic.oup.com/bioinformatics/article/41/8/btaf413/8209483?utm_source=chatgpt.com)
+
+
+### Computer Vision
+
+#### Optical Character Recognition (OCR)
+
+- [DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
+- [Granite Docling](https://www.ibm.com/granite/docs/models/docling)
+- [Qwen 2.5 VL](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct?utm_source=chatgpt.com)
+
+### Machine Learning
+
+#### Survival Analysis
+
+- [Kaplan-Meier Estimator]()
+- [Nelson Aalen Estimator]()
+- [Log Rank Tests and Variants]()
+- [Cox Proportional Hazards]()
+    - [Stratified Cox]()
+    - [Time Dependent Covariates]()
+    - [Frailty Cox Models]()
+- [Aalen Additive Hazard Model]()
+- [Exponential Distribution]()
+- [Weibull Distribution]()
+- [Gompertz Distribution]()
+- [Log-Normal Distribution]()
+- [Log-Logistic Distribution]()
+- [Generalized Gamma]()
+- [Random Survival Trees]()
+- [CoxBoost]()
+- [XGBoost-Survival]()
+- [LightGBM-Survival]()
+- [SVM-Survival]()
+- [kNN-Survival]()
+- [DeepSurv]()
+- [CoxTime]()
+- [DeepHit]()
+- [Dynamic DeepHit]()
+- [Logistic Hazard]()
+- [DySurv]()
+- [DM-GNN]()
+- [TransSurv]()
+- [Transformer for Cause-Specific Hazard in Competing Risks]()
+- [Case-Base Neural Network (CBNN)]()
+- [DeepHazard - Python]()
+- [Multi-State Survival Models]()
+- [Fine-Gray Subdistribution Hazard Model]()
+
+##### Interpretability
+
+- [GradSHAP]()
+- [XAI(t)]()
+- [SurvSHAP]()
+- [SurvLIME]()
+
+### Explainable AI
+
+- [Delphi-2M](https://www.ft.com/content/598e07ec-954f-49b7-9bc5-ce77f9fff934?utm_source=chatgpt.com)
+- [TabPFN](https://www.nature.com/articles/s41586-024-08328-6?utm_source=chatgpt.com)
+- [TabCBM](https://openreview.net/forum?id=TIsrnWpjQ0&utm_source=chatgpt.com)
+- [T-JEPA](https://arxiv.org/pdf/2410.05016)
+- [Logic Neural Networks (LNNs)]()

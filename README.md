@@ -3,7 +3,6 @@
 ### Algorithms and Data Structures
 
 - [AlgoMonster](https://algo.monster/)
-- [AlgoExpert]()
 
 ### System Design
 

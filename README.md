@@ -207,4 +207,4 @@
 - [TabPFN](https://www.nature.com/articles/s41586-024-08328-6?utm_source=chatgpt.com)
 - [TabCBM](https://openreview.net/forum?id=TIsrnWpjQ0&utm_source=chatgpt.com)
 - [T-JEPA](https://arxiv.org/pdf/2410.05016)
-- [Logic Neural Networks (LNNs)]()
+- [Logic Neural Networks (LNNs)](https://medium.com/@andrea.rosales08/logical-neural-networks-using-pytorch-a017d96d3e05)
